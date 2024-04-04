@@ -1,4 +1,4 @@
-
+git remote add tariq  https://github.com/nayeem7659/tariq-Protfolio.git
 
 FREELANCE PROJECTS
 Spintr-Ul Animation
